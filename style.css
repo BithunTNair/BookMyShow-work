@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+}
+body{
+    background: #fff;
+}
+body::-webkit-scrollbar{
+    display: none;
+}
+.top-nav{
+    background: rgb(51, 53, 69);
+}
+.nav-div2{
+    width: 15%;
+}
+.first-logo{
+    width: 17%;
+}
+.menu-bar{
+    color: #fff;
+    font-size: 20px;
+    height: 35px;
+    width: 75px;
+}
+.nav-btn{
+    width: 75px;
+    height: 35px;
+}
+.sign-btn{
+    width: 40%;
+    border: none;
+    color: #fff;
+}
+.place{
+    width: 100px;
+    height: 35px;
+}
+.top2-nav{
+    background: rgb(34, 37, 57);
+}
+.nav2 a{
+    text-decoration: none;
+    color: #fff;
+}
+.premiere{
+    background: rgb(43, 49, 72);
+}
+.premiere-row{
+    margin-left: 100px;
+}
+.premiere-text{
+    margin-left: 160px;
+    margin-top: -15px;
+}
+.footer{
+    background: rgb(49, 48, 53);
+}
+.footer2{
+    background:  rgb(64, 64, 67);
+}
+.footer-text{
+    color:rgb(255, 255, 255);
+}
+.anchor-text{
+    color: aliceblue;
+}
+svg{
+    cursor: pointer;
+}
+img{
+    cursor: pointer;
+}
+.btn{
+    width: 53%;
+}
+.narrow{
+    
+    flex: 1 1 0%;
+    height: 1px;
+    background: rgb(93, 93, 95);
+}
+.png{
+    background: rgb(49, 48, 53);
+    width: 100%;
+}
+.logo{
+    width:8%;
+}
+.bottom{
+    width: 100%;
+    background: rgb(49, 48, 53);   
+}
+.icon:hover{
+    background: #fff; 
+}
+.copyright-text{
+    color:#c0b9b9cc;
+}
+.bottom-last{
+    background: #fff;
+}
+
